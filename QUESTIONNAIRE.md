@@ -34,8 +34,8 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 #### Section 2: Front-end
 4. HTML/CSS
    - [ ] 1
-   - [ ] 2
-   - [X] 3
+   - [X] 2
+   - [ ] 3
    - [ ] 4
    - [ ] 5
 5. JavaScript
@@ -45,8 +45,8 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
    - [ ] 4
    - [ ] 5
 6. Frameworks (React, Angular, Vue.js)
-   - [ ] 1
-   - [X] 2
+   - [X] 1
+   - [ ] 2
    - [ ] 3
    - [ ] 4
    - [ ] 5
@@ -137,8 +137,8 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 
 #### Section 8: Serveurs et Systèmes d'Exploitation
 19. Administration de serveurs Linux
-    - [ ] 1
-    - [X] 2
+    - [X] 1
+    - [ ] 2
     - [ ] 3
     - [ ] 4
     - [ ] 5
@@ -151,14 +151,14 @@ puis enregistrez vos réponse en effectuant votre premier commit (si vous avez q
 
 #### Section 9: Performance et Caching
 21. Mise en œuvre de systèmes de cache (par exemple, Memcached, Redis)
-    - [ ] 1
-    - [X] 2
+    - [X] 1
+    - [ ] 2
     - [ ] 3
     - [ ] 4
     - [ ] 5
 22. Optimisation de performance pour les applications web
-    - [ ] 1
-    - [X] 2
+    - [X] 1
+    - [ ] 2
     - [ ] 3
     - [ ] 4
     - [ ] 5
